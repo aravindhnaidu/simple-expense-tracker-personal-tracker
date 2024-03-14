@@ -1,0 +1,66 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url(data:image/jpeg;base64,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);
+    background-size: cover;
+    background: linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60));
+
+    margin: 0;
+    padding: 20px;
+}
+
+h1 ,h2{
+    color:white;
+    align-content: center;
+   
+}
+
+
+#expense-form {
+    background-color: #100404;
+    background: linear-gradient(rgba(0,0,0,0.30),rgba(0,0,0,0.30));
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+}
+
+#expense-form input[type="text"],
+#expense-form input[type="number"] {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+#expense-form button {
+    padding: 10px 20px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#expense-form button:hover {
+    background-color: #4cae4c;
+}
+
+#expense-list {
+   color: #0e0101;
+    background: linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60));
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#expense-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#expense-list ul li {
+    background-color: #eee;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
